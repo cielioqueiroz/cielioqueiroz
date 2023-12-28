@@ -11,7 +11,7 @@
 
 🎓 Eu estudo [Desenvolvimento de Software FrontEnd](https://www.devmedia.com.br/)
 
-👩‍💻 Atualmente eu trabalho como Desenvolverdor FrontEnd na Player Contabilidade
+👩‍💻 Atualmente eu trabalho Prestando serviços para empresas.
 
 🔎 Também sou curioso sobre historias do passado, gosto de aprender coisas novas
 
