@@ -13,9 +13,9 @@
 
 👩‍💻 Atualmente eu trabalho como Desenvolverdor FrontEnd na Player Contabilidade
 
-🔎 Também sou curioso sobre historias do passado, teorias da conspiração rsrsrs
+🔎 Também sou curioso sobre historias do passado, gosto de aprender coisas novas
 
-✒️ Eu gosto de no meu tempo livre Jogar CS2;
+✒️ Eu gosto de no meu tempo livre Jogar CS2, ficar com a familia em casa
 
 
 ### Eu já trabalhei com... 🔧
