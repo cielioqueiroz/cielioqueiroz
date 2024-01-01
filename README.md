@@ -1,6 +1,6 @@
 
 
-# Salve salve galera, me chamo Ciélio Queiroz 👋
+# Salve Salve galera, me chamo Ciélio Queiroz 👋
 
 ### Sobre mim
 
