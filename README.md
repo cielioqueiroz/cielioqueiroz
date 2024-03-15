@@ -1,6 +1,6 @@
 ## Hello World! 🌎 Ciélio here! 😎
 
-- 👨🏽‍💻 Software Developer front-end
+- 👨🏽‍💻 Software Developer Front-end
 - 🤓 Constantly Learning...ALWAYS studying...
 - 🎮 Fan and Amateur CS Player
 - ❤️‍🔥 God is my everything
