@@ -1,4 +1,4 @@
-## Hello World! 🌎 Ciélio here! 😎
+## Hello World! 🌎 Ciélio Queiroz here! 😎
 
 - 👨🏽‍💻 Software Developer Front-end
 - 🤓 Constantly Learning...ALWAYS studying...
