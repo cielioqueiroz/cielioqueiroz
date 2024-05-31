@@ -1,6 +1,6 @@
 ## Hello World! 🌎 Ciélio Queiroz here! 😎
 
-- 👨🏽‍💻 Software Developer Front-end
+- 👨🏽‍💻 Software Developer
 - 🤓 Constantly Learning...ALWAYS studying...
 - 🎮 Fan and Amateur CS Player
 - ❤️‍🔥 God is my everything
