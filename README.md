@@ -1,6 +1,5 @@
 ## Hello World! 🌎 Ciélio Queiroz here! 😎
 
-- 👨🏽‍💻 Software Developer
 - 🤓 Constantly Learning...ALWAYS studying...
 - 🎮 Fan and Amateur CS Player
 - ❤️‍🔥 God is my everything
@@ -33,7 +32,7 @@
 
 <div>
   <a href="https://www.instagram.com/cielio.queiroz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaci%C3%A9lio-queiroz-a39536218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jacielio-queiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
