@@ -3,12 +3,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:1A0A00,80:E8522A,100:FFB627&height=220&section=header&text=Cielio%20Queiroz&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=%F0%9F%8E%AE%20Developer%20%7C%20Finance%20%7C%20CS2%20Player&descSize=20&descAlignY=66&animation=fadeIn"/>
 </div>
 
-<!-- TYPING SVG CORRIGIDO -->
+<!-- TYPING SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FFB627&center=true&vCenter=true&width=750&height=60&lines=Bomb+has+been+planted...+%F0%9F%92%A3;Counter-Terrorists+Win!+%F0%9F%8F%86;Finance+%2B+Code+%2B+CS2;Always+clutching+the+round!;GO+GO+GO!" alt="Typing SVG"/>
 </div>
 
-<!-- CS2 LOGO + BADGE -->
+<!-- BADGES -->
 <div align="center">
   <br/>
   <img src="https://img.shields.io/badge/CS2-Player-E8522A?style=for-the-badge&logo=counter-strike&logoColor=FFB627"/>
@@ -41,8 +41,8 @@ const cielio = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=cielioqueiroz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFB627&icon_color=E8522A&text_color=FFFFFF&bg_color=0D0D0D"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielioqueiroz&layout=compact&langs_count=8&hide_border=true&title_color=FFB627&text_color=FFFFFF&bg_color=0D0D0D"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=cielioqueiroz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielioqueiroz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
@@ -217,14 +217,14 @@ const cielio = {
 
 <div align="center">
 
-[![calculadora-investimentos](https://github-readme-stats.vercel.app/api/pin/?username=cielioqueiroz&repo=calculadora-investimentos&bg_color=0D0D0D&title_color=FFB627&text_color=FFFFFF&icon_color=E8522A&border_color=E8522A)](https://github.com/cielioqueiroz/calculadora-investimentos)
-[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=cielioqueiroz&repo=task-manager&bg_color=0D0D0D&title_color=FFB627&text_color=FFFFFF&icon_color=E8522A&border_color=E8522A)](https://github.com/cielioqueiroz/task-manager)
-
-[![crud-user-react](https://github-readme-stats.vercel.app/api/pin/?username=cielioqueiroz&repo=crud-user-react&bg_color=0D0D0D&title_color=FFB627&text_color=FFFFFF&icon_color=E8522A&border_color=E8522A)](https://github.com/cielioqueiroz/crud-user-react)
-[![app-weather](https://github-readme-stats.vercel.app/api/pin/?username=cielioqueiroz&repo=app-weather&bg_color=0D0D0D&title_color=FFB627&text_color=FFFFFF&icon_color=E8522A&border_color=E8522A)](https://github.com/cielioqueiroz/app-weather)
-
-[![calculadoraIMC](https://github-readme-stats.vercel.app/api/pin/?username=cielioqueiroz&repo=calculadoraIMC&bg_color=0D0D0D&title_color=FFB627&text_color=FFFFFF&icon_color=E8522A&border_color=E8522A)](https://github.com/cielioqueiroz/calculadoraIMC)
-[![geradorSenhas](https://github-readme-stats.vercel.app/api/pin/?username=cielioqueiroz&repo=geradorSenhas&bg_color=0D0D0D&title_color=FFB627&text_color=FFFFFF&icon_color=E8522A&border_color=E8522A)](https://github.com/cielioqueiroz/geradorSenhas)
+| 🚀 Project | 🛠️ Tech | 📋 About |
+|:-----------|:-------:|:---------|
+| [💰 calculadora-investimentos](https://github.com/cielioqueiroz/calculadora-investimentos) | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | Simulador de investimentos brasileiros com cálculo de IR |
+| [✅ task-manager](https://github.com/cielioqueiroz/task-manager) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Gerenciador de tarefas |
+| [👤 crud-user-react](https://github.com/cielioqueiroz/crud-user-react) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | CRUD completo de usuários com React |
+| [🌤️ app-weather](https://github.com/cielioqueiroz/app-weather) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | App de previsão do tempo com API |
+| [⚖️ calculadoraIMC](https://github.com/cielioqueiroz/calculadoraIMC) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Calculadora de IMC |
+| [🔐 geradorSenhas](https://github.com/cielioqueiroz/geradorSenhas) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Gerador de senhas seguras |
 
 </div>
 
