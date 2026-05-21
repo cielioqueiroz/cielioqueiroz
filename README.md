@@ -1,11 +1,15 @@
-<!-- BANNER CS2 -->
+<!-- HEADER PRINCIPAL -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:1A0A00,80:E8522A,100:FFB627&height=220&section=header&text=Cielio%20Queiroz&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=%F0%9F%8E%AE%20Developer%20%7C%20Finance%20%7C%20CS2%20Player&descSize=20&descAlignY=66&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=5000&pause=1000&color=FFB627&center=true&vCenter=true&width=900&height=90&lines=CIELIO+QUEIROZ" alt="Cielio Queiroz" />
+
+### `🎮 Developer  •  💼 Finance  •  ❤️ Husband & Girl Dad`
+
 </div>
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG SUBTITULO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FFB627&center=true&vCenter=true&width=750&height=60&lines=Bomb+has+been+planted...+%F0%9F%92%A3;Counter-Terrorists+Win!+%F0%9F%8F%86;Finance+%2B+Code+%2B+CS2;Always+clutching+the+round!;GO+GO+GO!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E8522A&center=true&vCenter=true&width=750&height=60&lines=Bomb+has+been+planted...+%F0%9F%92%A3;Counter-Terrorists+Win!+%F0%9F%8F%86;Finance+%2B+Code+%2B+CS2;Family+is+everything+%E2%9D%A4%EF%B8%8F;GO+GO+GO!" alt="Typing SVG"/>
 </div>
 
 <!-- BADGES -->
@@ -13,6 +17,7 @@
   <br/>
   <img src="https://img.shields.io/badge/CS2-Player-E8522A?style=for-the-badge&logo=counter-strike&logoColor=FFB627"/>
   <img src="https://img.shields.io/badge/Finance-to--Tech-FFB627?style=for-the-badge&logo=bitcoin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Girl%20Dad-%E2%9D%A4%EF%B8%8F-FF1493?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Par%C3%A1-Brazil%20%F0%9F%87%A7%F0%9F%87%B7-009C3B?style=for-the-badge"/>
   <br/><br/>
 </div>
@@ -23,26 +28,52 @@
 
 ```typescript
 const cielio = {
-  name     : "Jacielio Queiroz",
-  alias    : "Cielio",
-  location : "Para, Brazil",
-  role     : "Finance & Admin Professional → Developer",
-  exp      : "9+ years in finance, accounting, business administration",
-  learning : ["React", "TypeScript", "Python", "Power BI", "SQL"],
-  hobbies  : ["CS2 ranked grind 🎮", "Football ⚽", "Cycling 🚴"],
-  faith    : "God is my everything ✝️",
-  quote    : "I can do all things through Christ who strengthens me. — Phil. 4:13"
+  name        : "Jacielio Queiroz",
+  alias       : "Cielio",
+  location    : "Para, Brazil 🇧🇷",
+  role        : "Finance & Admin Professional → Developer",
+  experience  : "9+ years in finance, accounting, business administration",
+  family      : {
+    wife      : "Esposa amada 💍",
+    daughter  : "Maria Alice 👧✨",
+    motto     : "Family first, always."
+  },
+  learning    : ["React", "TypeScript", "Python", "Power BI", "SQL"],
+  hobbies     : ["CS2 ranked grind 🎮", "Football ⚽", "Cycling 🚴"],
+  faith       : "God is my everything ✝️",
+  lifeQuote   : "I can do all things through Christ who strengthens me. — Phil. 4:13"
 };
 ```
 
 ---
 
-## 💥 Power Level — GitHub Stats
+## 👨‍👩‍👧 My Why
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=cielioqueiroz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielioqueiroz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+> **Tudo o que faço, faço por elas.**  
+> *Pela minha esposa, pela minha pequena Maria Alice — e pela glória de Deus.* ✝️
+> 
+> Cada linha de código, cada novo aprendizado, cada noite estudando...  
+> É um passo a mais para construir um futuro melhor para a minha família. ❤️
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cielioqueiroz&bg_color=0D0D0D&color=FFB627&line=E8522A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/cielioqueiroz?style=for-the-badge&logo=github&color=FFB627&labelColor=0D0D0D)
+![Followers](https://img.shields.io/github/followers/cielioqueiroz?style=for-the-badge&logo=github&color=E8522A&labelColor=0D0D0D)
+![Profile Views](https://komarev.com/ghpvc/?username=cielioqueiroz&style=for-the-badge&color=FFB627&labelColor=0D0D0D&label=PROFILE+VIEWS)
 
 </div>
 
@@ -230,6 +261,19 @@ const cielio = {
 
 ---
 
+## ✝️ Faith & Purpose
+
+<div align="center">
+
+> *"Tudo posso naquele que me fortalece."* — Filipenses 4:13
+>
+> *Que cada projeto, cada conquista e cada desafio sirvam para honrar a Deus  
+> e abençoar minha família.* 🙏
+
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -248,14 +292,11 @@ const cielio = {
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cielioqueiroz&style=for-the-badge&color=E8522A&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/cielioqueiroz?style=for-the-badge&color=FFB627&labelColor=1A1A1A)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=E8522A&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%92%A3+Fire+in+the+hole!+%F0%9F%92%A3;Thanks+for+visiting!+%F0%9F%91%8B" alt="Footer"/>
 
-</div>
+**⭐ From [cielioqueiroz](https://github.com/cielioqueiroz) with ❤️**
 
-<!-- FOOTER CS2 -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB627,50:E8522A,100:0D0D0D&height=120&section=footer&text=Fire%20in%20the%20hole!%20%F0%9F%92%A3&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
 </div>
