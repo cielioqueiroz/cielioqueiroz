@@ -1,105 +1,249 @@
+<!-- BANNER MAJIN VEGETA -->
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%8C%8E;I'm+Ciélio+Queiroz+%F0%9F%98%8E;Finance+%2B+Tech+Enthusiast;Always+Learning...)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:9D4EDD,100:FFD700&height=200&section=header&text=Ciélio%20Queiroz&fontSize=60&fontColor=FFD700&fontAlignY=40&desc=Prince%20of%20Code%20%E2%9A%94%EF%B8%8F&descSize=20&descAlignY=65&animation=fadeIn" />
+</div>
+
+<!-- TYPING ANIMATION COM FRASES DO VEGETA -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=800&color=FFD700&center=true&vCenter=true&multiline=false&width=800&height=70&lines=It's+Over+9000!+%F0%9F%94%A5;I+am+the+Prince+of+all+Saiyans!;Welcome+to+my+GitHub+Profile;Finance+%2B+Tech+%2B+Pride)](https://git.io/typing-svg)
+
+</div>
+
+<!-- MAJIN VEGETA GIF -->
+<div align="center">
+  <img src="https://media.tenor.com/CXIBNi8jLnEAAAAi/majin-vegeta-vegeta.gif" width="200"/>
 </div>
 
 ---
 
-### 👋 About Me
+## 👑 About Me
 
-- 🤓 **Constantly Learning** — Finance professional transitioning into tech
-- 💼 **Background:** 9+ years in finance, accounting & business administration
-- 🚀 **Currently exploring:** Data Analysis, Automation & Full-Stack Development
-- 🎮 **Off the clock:** Amateur CS player, football fan & cyclist
-- ❤️‍🔥 **God is my everything**
-- ✝️ *"I can do all things through Christ who strengthens me."* — Phil. 4:13
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/aamwm6Ge_8AAAAAm/saiyan-prince-majin-vegeta.webp"/>
 
----
+```typescript
+const cielio = {
+  name: "Jacielio Queiroz",
+  alias: "Ciélio",
+  location: "Pará, Brazil 🇧🇷",
+  background: "Finance & Administration (9+ years)",
+  currentMission: "Become a Super Saiyan Developer",
+  learning: ["React", "TypeScript", "Python", "Power BI"],
+  hobbies: ["Counter-Strike 🎮", "Football ⚽", "Cycling 🚴"],
+  faith: "✝️ God is my everything",
+  lifeQuote: "I can do all things through Christ who strengthens me."
+};
+```
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cielioqueiroz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielioqueiroz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cielioqueiroz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  
-</div>
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Power Level — GitHub Stats
 
 <div align="center">
 
-#### Languages
-<img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-<img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-<img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-<img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cielioqueiroz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=9D4EDD&text_color=FFFFFF&bg_color=0D0221"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielioqueiroz&layout=compact&langs_count=8&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0D0221"/>
 
-#### Frontend
-<img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img alt="Vite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-<img alt="TailwindCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-<img alt="MaterialUI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cielioqueiroz&hide_border=true&background=0D0221&stroke=9D4EDD&ring=FFD700&fire=FF4500&currStreakLabel=FFD700&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
 
-#### Backend & Database
-<img alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-<img alt="Supabase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg">
-<img alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-
-#### Data & Automation
-<img alt="Power BI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-<img alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
-<img alt="n8n" height="40" width="50" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">
-
-#### Tools
-<img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-<img alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-<img alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-<img alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img src="https://github-profile-trophy.vercel.app/?username=cielioqueiroz&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
 
 </div>
 
 ---
 
-### 🚀 Currently Working On
+## ⚔️ Battle Arsenal — Tech Stack
 
-- 🔭 Building full-stack applications with **React + TypeScript + Supabase**
-- 🌱 Deepening knowledge in **Data Analysis** and **Process Automation**
-- 💡 Exploring the intersection between **Finance** and **Technology**
+<div align="center">
+
+### 💻 Languages
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+      <br><strong>HTML5</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+      <br><strong>CSS3</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL"/>
+      <br><strong>SQL</strong>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Frontend
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite"/>
+      <br><strong>Vite</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS"/>
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="48" height="48" alt="MaterialUI"/>
+      <br><strong>Material UI</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap"/>
+      <br><strong>Bootstrap</strong>
+    </td>
+  </tr>
+</table>
+
+### 🛢️ Backend & Database
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/>
+      <br><strong>Supabase</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48" height="48" alt="Express"/>
+      <br><strong>Express</strong>
+    </td>
+  </tr>
+</table>
+
+### 📊 Data & Automation
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI"/>
+      <br><strong>Power BI</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
+      <br><strong>Jupyter</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://n8n.io/favicon.svg" width="48" height="48" alt="n8n"/>
+      <br><strong>n8n</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+      <br><strong>Pandas</strong>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub"/>
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
+      <br><strong>Postman</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🔥 Current Training Arc
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/jacielio-queiroz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/cielio.queiroz/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/cielioqueiroz" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
+
+| 🎯 Focus | 📚 Learning | 🚀 Building |
+|:--------:|:-----------:|:-----------:|
+| Full-Stack Development | Advanced TypeScript | Investment Calculator App |
+| Data Analysis | Python for Finance | Personal Finance Dashboards |
+| Process Automation | n8n Workflows | Business Process Tools |
+
+</div>
+
+---
+
+## 💬 Words of a Saiyan Prince
+
+<div align="center">
+
+> *"I do not fear this new challenge. Rather, like a true warrior, I will rise to meet it."*  
+> **— Vegeta** ⚔️
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jacielio-queiroz/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/cielio.queiroz/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/cielioqueiroz" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:seu-email@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=cielioqueiroz&style=flat-square&color=FFD700)
-  
+![Profile Views](https://komarev.com/ghpvc/?username=cielioqueiroz&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/cielioqueiroz?style=for-the-badge&color=FFD700&labelColor=4B0082)
+
+</div>
+
+<!-- FOOTER VEGETA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:9D4EDD,100:4B0082&height=120&section=footer&text=Pride%20%E2%9A%94%EF%B8%8F%20Power%20%E2%9A%94%EF%B8%8F%20Code&fontSize=20&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" />
 </div>
