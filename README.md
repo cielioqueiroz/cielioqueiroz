@@ -1,289 +1,186 @@
-<!-- HEADER PRINCIPAL -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        HEADER / BANNER                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=5000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=%3E_+CIELIO+QUEIROZ" alt="Cielio Queiroz" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=46&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=%3E_+CIELIO+QUEIROZ" alt="Cielio Queiroz" />
 
-### `</> Developer  •  💼 Finance  •  ❤️ Husband & Girl Dad`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=820&height=42&lines=root%40github%3A~%24+sudo+build+the+future;while(alive)+%7B+keep_learning()%3B+%7D;git+commit+-m+'family+first%2C+always';npm+run+life+--with-faith+--with-code" alt="Typing SVG" />
 
-</div>
+<br/>
 
-<!-- TYPING SVG SUBTITULO -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=console.log('Hello+World!');;while(alive)+%7B+keep_learning();+%7D;sudo+rm+-rf+%2Fdoubts;git+commit+-m+'building+the+future';npm+run+life+--family-first" alt="Typing SVG"/>
-</div>
+<img src="https://img.shields.io/badge/%3C%2F%3E-DEVELOPER-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FINANCE-%E2%86%92%20TECH-30363D?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GIRL%20DAD-%E2%9D%A4-30363D?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BRAZIL-%F0%9F%87%A7%F0%9F%87%B7-30363D?style=for-the-badge&labelColor=0D1117" />
 
-<!-- BADGES -->
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/%3C%2F%3E-Developer-00FF41?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Finance-to--Tech-00D9FF?style=for-the-badge&logo=bitcoin&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Girl%20Dad-%E2%9D%A4%EF%B8%8F-FF1493?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Par%C3%A1-Brazil%20%F0%9F%87%A7%F0%9F%87%B7-009C3B?style=for-the-badge"/>
-  <br/><br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=cielioqueiroz&style=for-the-badge&color=58A6FF&labelColor=0D1117&label=VISITS" />
+<img src="https://img.shields.io/github/followers/cielioqueiroz?style=for-the-badge&logo=github&color=8B949E&labelColor=0D1117&label=FOLLOWERS" />
+
 </div>
 
 ---
 
-## 🖥️ About Me
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ABOUT ME                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-```javascript
-const cielio = {
+## `~/about-me` 🖥️
+
+```ts
+const cielio: Developer = {
   name        : "Jacielio Queiroz",
   alias       : "Cielio",
-  location    : "Para, Brazil",
+  location    : "Brazil 🇧🇷",
   role        : "Finance & Admin → Developer",
   experience  : "9+ years in finance & administration",
-  family      : {
-    wife      : "Esposa amada 💍",
-    daughter  : "Maria Alice 👧✨",
-    motto     : "Family first, always."
-  },
-  currentlyLearning : ["React", "Node.js", "Python", "SQL"],
-  hobbies     : ["Coding 💻", "Gaming 🎮", "Football ⚽", "Cycling 🚴"],
+  stack       : ["React", "Node.js", "Python", "SQL", "Power BI"],
+  family      : { wife: "💍", daughter: "Maria Alice 👧✨", motto: "family first" },
   faith       : "God is my everything ✝️",
-  lifeQuote   : "I can do all things through Christ who strengthens me."
+  status      : "building the future, one commit at a time",
 };
 
-console.log(`Welcome to my GitHub, ${visitor}! 👋`);
+console.log(`> welcome, ${visitor}. system online.`);
 ```
 
 ---
 
-## 💡 My Why
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          MY WHY                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+## `~/why` 💡
 
 ```bash
-$ whoami
+$ cat purpose.txt
 > A husband, a father, a developer in the making.
 > Every line of code is a step toward a better future for my family.
+> Tudo o que faço, faço por elas. ✝️
 ```
 
-> **Tudo o que faço, faço por elas.**  
-> *Pela minha esposa, pela minha pequena Maria Alice — e pela glória de Deus.* ✝️
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        TECH STACK                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `~/stack` 🧰
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,ts&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,styledcomponents,materialui,bootstrap&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark" />
+
+**Data & Automation**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" />&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="48" height="48" title="n8n" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          STATS                                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `~/stats` 📊
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cielioqueiroz&bg_color=0D1117&color=00FF41&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=%3E_+Contribution+Activity"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cielioqueiroz&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
-</div>
+<br/>
 
-<div align="center">
-
-![Stars](https://img.shields.io/github/stars/cielioqueiroz?style=for-the-badge&logo=github&color=00FF41&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/cielioqueiroz?style=for-the-badge&logo=github&color=00D9FF&labelColor=0D1117)
-![Profile Views](https://komarev.com/ghpvc/?username=cielioqueiroz&style=for-the-badge&color=00FF41&labelColor=0D1117&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cielioqueiroz&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cielioqueiroz&theme=matrix&no-frame=true&row=1&column=7&margin-w=10"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cielioqueiroz&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&custom_title=%3E_%20Contribution%20Activity" />
 
 </div>
 
 ---
 
-## 🧰 Tech Stack
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      FEATURED PROJECTS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `~/projects` 📌
 
 <div align="center">
 
-### 💻 Languages
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/>
-      <br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/>
-      <br/><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/>
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48"/>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
-      <br/><sub><b>SQL</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/>
-      <br/><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48"/>
-      <br/><sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48"/>
-      <br/><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" width="48" height="48"/>
-      <br/><sub><b>Styled Components</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="48" height="48"/>
-      <br/><sub><b>Material UI</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>
-      <br/><sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🛢️ Backend & Database
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-      <br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48"/>
-      <br/><sub><b>Supabase</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 📊 Data & Automation
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48"/>
-      <br/><sub><b>Power BI</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48"/>
-      <br/><sub><b>Jupyter</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tools
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48"/>
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48"/>
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/>
-      <br/><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
+| 🚀 Project | 🛠️ Stack | 📋 About |
+|:-----------|:--------:|:---------|
+| [💰 calculadora-investimentos](https://github.com/cielioqueiroz/calculadora-investimentos) | ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=58A6FF) ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat-square&logo=vite&logoColor=8B949E) | Simulador de investimentos BR com cálculo de IR |
+| [👤 crud-user-react](https://github.com/cielioqueiroz/crud-user-react) | ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=58A6FF) | CRUD completo de usuários |
+| [🌤️ app-weather](https://github.com/cielioqueiroz/app-weather) | ![JS](https://img.shields.io/badge/-JS-0D1117?style=flat-square&logo=javascript&logoColor=8B949E) | App de previsão do tempo via API |
+| [✅ task-manager](https://github.com/cielioqueiroz/task-manager) | ![JS](https://img.shields.io/badge/-JS-0D1117?style=flat-square&logo=javascript&logoColor=8B949E) | Gerenciador de tarefas |
+| [⚖️ calculadoraIMC](https://github.com/cielioqueiroz/calculadoraIMC) | ![JS](https://img.shields.io/badge/-JS-0D1117?style=flat-square&logo=javascript&logoColor=8B949E) | Calculadora de IMC |
+| [🔐 geradorSenhas](https://github.com/cielioqueiroz/geradorSenhas) | ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat-square&logo=css3&logoColor=58A6FF) | Gerador de senhas seguras |
 
 </div>
 
 ---
 
-## 🚀 Current Training Arc
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FAITH & PURPOSE                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
-
-| 🎯 Mission | 📚 Studying | 🔨 Building |
-|:---:|:---:|:---:|
-| Full-Stack Dev | React + Node.js | Investment Calculator |
-| Data Analysis | Python + SQL | Finance Dashboards |
-| Automation | n8n Workflows | Business Process Tools |
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 🛠️ Tech | 📋 About |
-|:-----------|:-------:|:---------|
-| [💰 calculadora-investimentos](https://github.com/cielioqueiroz/calculadora-investimentos) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) | Simulador de investimentos brasileiros com cálculo de IR |
-| [✅ task-manager](https://github.com/cielioqueiroz/task-manager) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Gerenciador de tarefas |
-| [👤 crud-user-react](https://github.com/cielioqueiroz/crud-user-react) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | CRUD completo de usuários com React |
-| [🌤️ app-weather](https://github.com/cielioqueiroz/app-weather) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | App de previsão do tempo com API |
-| [⚖️ calculadoraIMC](https://github.com/cielioqueiroz/calculadoraIMC) | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Calculadora de IMC |
-| [🔐 geradorSenhas](https://github.com/cielioqueiroz/geradorSenhas) | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Gerador de senhas seguras |
-
-</div>
-
----
-
-## ✝️ Faith & Purpose
-
-<div align="center">
+## `~/faith` ✝️
 
 ```python
 def my_purpose():
     return {
-        "faith": "God first",
-        "family": "Always",
-        "code": "With excellence and gratitude"
+        "faith":  "God first",
+        "family": "always",
+        "code":   "with excellence and gratitude",
     }
 ```
 
 > *"Tudo posso naquele que me fortalece."* — Filipenses 4:13
 
-</div>
-
 ---
 
-## 🌐 Let's Connect
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          CONNECT                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `~/connect` 🌐
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jacielio-queiroz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 <a href="https://www.instagram.com/cielio.queiroz/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B949E" />
 </a>
 <a href="https://github.com/cielioqueiroz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9D1D9" />
 </a>
 
 </div>
 
----
+<br/>
 
-<!-- FOOTER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=50&lines=%3E_+process.exit(0);;%3E_+Thanks+for+visiting!+%F0%9F%91%8B" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=%3E_+process.exit(0);;%3E_+thanks+for+visiting!+%F0%9F%91%8B" alt="Footer" />
 
-**`⭐ From cielioqueiroz with ❤️ — git push origin life`**
+**`⭐ from cielioqueiroz — git push origin life`**
 
 </div>
