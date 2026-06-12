@@ -46,7 +46,7 @@ const cielio = {
   alias       : "Cielio",
   location    : "Brazil — open to remote",
   role        : "Frontend Developer",
-  background  : "9+ years in finance & administration",
+  background  : "15+ years in finance & administration",
   coreStack   : ["React", "Next.js 15", "TypeScript", "Tailwind CSS"],
   learning    : ["Node.js", "Supabase", "Testing (Vitest)"],
   buildingNow : "personal portfolio (Next.js 15 + SSG + GitHub Actions)",
