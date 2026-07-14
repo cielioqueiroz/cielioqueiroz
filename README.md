@@ -131,7 +131,7 @@ const cielio: Developer = {
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    SNAKE ANIMATION                             ║ -->
-<!-- ║  Requer o workflow .github/workflows/snake.yml no repositório  ║ -->
+<!-- ║        Gerada pelo workflow .github/workflows/snake.yml       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -194,10 +194,6 @@ e Open Graph configurado para compartilhamento em redes sociais.
 ## `~/stats`
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cielioqueiroz&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-<br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=cielioqueiroz&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
