@@ -1,17 +1,19 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        HEADER / BANNER                         ║ -->
+<!-- ║                      BANNER ANIMADO (TOPO)                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=&animation=fadeIn" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=%3E_+CIELIO+QUEIROZ" alt="Cielio Queiroz" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=%3E_+CIELIO+QUEIROZ;%3E_+React+%C2%B7+Next.js+%C2%B7+TypeScript;%3E_+from+finance+to+frontend" alt="Cielio Queiroz" />
 
-#### Frontend Developer · React · Next.js · TypeScript
+#### Frontend Developer construindo produtos reais do interior do Brasil
 
 <br/>
 
 <img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-Frontend%20Jr%2FPleno-3FB950?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Brazil-%F0%9F%87%A7%F0%9F%87%B7%20%C2%B7%20Remote--friendly-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Brazil%20%F0%9F%87%A7%F0%9F%87%B7-Remote--friendly-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
@@ -32,32 +34,74 @@
 
 </div>
 
----
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     GIT LOG DA CARREIRA                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## `~/git log --oneline career/`
+
+```bash
+a1f2026 (HEAD -> main, tag: v2.0) feat: frontend developer, shipping real products
+b9e2025 feat!: BREAKING CHANGE, career pivot to web development
+c7d2025 build: Next.js 15, TypeScript, Supabase added to stack
+d4c2024 refactor: 9+ years of finance turned into analytical superpowers
+e2b2022 docs: bachelor's degree in Business Administration
+f0a2013 init: first job in finance & administration
+```
+
+> Cada commit acima é real. A carreira em finanças não foi descartada, foi **refatorada**: virou olhar analítico, disciplina com dados e obsessão por detalhes que hoje aplico em cada componente.
+
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          ABOUT ME                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## `~/about-me`
+## `~/whoami`
 
-```ts
-const cielio = {
-  name        : "Jacielio Queiroz",
-  alias       : "Cielio",
-  location    : "Brazil — open to remote",
-  role        : "Frontend Developer",
-  background  : "15+ years in finance & administration",
-  coreStack   : ["React", "Next.js 15", "TypeScript", "Tailwind CSS"],
-  learning    : ["Node.js", "Supabase", "Testing (Vitest)"],
-  buildingNow : "personal portfolio (Next.js 15 + SSG + GitHub Actions)",
-  values      : ["family first", "faith", "craft over hype"],
-  availability: "open for opportunities — let's build",
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  superpower: string;
+  status: "open_to_work";
+}
+
+const cielio: Developer = {
+  name: "Jacielio Queiroz (Cielio)",
+  role: "Frontend Dev · React · Next.js 15 · TS",
+  superpower: "9+ anos em finanças = zero medo de " +
+              "planilha, regra de negócio ou número",
+  status: "open_to_work",
 };
 ```
 
-> **TL;DR** — Profissional com 9+ anos em finanças e administração, hoje desenvolvedor frontend. Stack principal em **React, Next.js 15 e TypeScript**, com olhar analítico e atenção a detalhes herdados da carreira anterior. Aberto a vagas **Jr/Pleno** em frontend — presencial (BR) ou remoto.
+</td>
+<td width="40%" valign="top">
 
----
+### `details.json`
+
+**📍 Base:** Brasil, aberto a remoto
+
+**📚 Aprendendo:** Node.js · Supabase · Vitest
+
+**🔨 Construindo:** portfolio com Next.js 15 + SSG + GitHub Actions
+
+**⚡ Fun fact:** escrevo código do interior do Brasil provando que tech não tem CEP
+
+**🧭 Valores:** família em primeiro lugar · fé · craft over hype
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        TECH STACK                              ║ -->
@@ -79,11 +123,24 @@ const cielio = {
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,html,css&theme=dark" />
 
-<sub>**Legacy from finance:** Power BI · Jupyter · n8n · advanced Excel</sub>
+<sub>**Herança das finanças:** Power BI · Jupyter · n8n · Excel avançado · SQL</sub>
 
 </div>
 
----
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    SNAKE ANIMATION                             ║ -->
+<!-- ║  Requer o workflow .github/workflows/snake.yml no repositório  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/cielioqueiroz/cielioqueiroz/output/github-snake-dark.svg" alt="Snake eating contributions" />
+
+</div>
+
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                      FEATURED PROJECT                          ║ -->
@@ -98,26 +155,26 @@ const cielio = {
 `Next.js 15` · `TypeScript` · `Tailwind CSS` · `GitHub Actions CI/CD` · `GitHub Pages`
 
 Site pessoal com showcase de projetos, design responsivo, animações performáticas
-e deploy contínuo. Inclui acessibilidade (skip-to-content, prefers-reduced-motion)
-e Open Graph configurados para compartilhamento em redes sociais.
+e deploy contínuo. Acessibilidade de verdade: skip-to-content, prefers-reduced-motion
+e Open Graph configurado para compartilhamento em redes sociais.
 
 <a href="https://cielioqueiroz.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%86%92%20Visit%20live%20site-58A6FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/%E2%86%92%20Ver%20site%20ao%20vivo-58A6FF?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 </div>
 
----
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       OTHER PROJECTS                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## `~/projects`
+## `~/projects --list`
 
 <div align="center">
 
-| Project | Stack | About |
+| Projeto | Stack | Sobre |
 |:--------|:-----:|:------|
 | [calculadora-investimentos](https://github.com/cielioqueiroz/calculadora-investimentos) | `React` `Vite` | Simulador de investimentos BR com cálculo de IR |
 | [crud-user-react](https://github.com/cielioqueiroz/crud-user-react) | `React` | CRUD completo de usuários |
@@ -128,7 +185,7 @@ e Open Graph configurados para compartilhamento em redes sociais.
 
 </div>
 
----
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          STATS                                 ║ -->
@@ -138,12 +195,11 @@ e Open Graph configurados para compartilhamento em redes sociais.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cielioqueiroz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cielioqueiroz&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=cielioqueiroz&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
-<br/>
+<br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cielioqueiroz&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+<img height="170" src="https://streak-stats.demolab.com?user=cielioqueiroz&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
@@ -151,7 +207,7 @@ e Open Graph configurados para compartilhamento em redes sociais.
 
 </div>
 
----
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       VALUES & PURPOSE                         ║ -->
@@ -161,13 +217,18 @@ e Open Graph configurados para compartilhamento em redes sociais.
 
 ```bash
 $ cat purpose.txt
+
 Marido, pai e desenvolvedor.
 Codifico hoje para construir o futuro da minha família amanhã.
+
+$ echo $MOTIVATION
+"Tudo posso naquele que me fortalece." (Filipenses 4:13)
+
+$ uptime
+9+ anos de disciplina financeira, agora em produção como código.
 ```
 
-> *"Tudo posso naquele que me fortalece."* — Filipenses 4:13
-
----
+<br/>
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                          CONNECT                               ║ -->
@@ -177,8 +238,12 @@ Codifico hoje para construir o futuro da minha família amanhã.
 
 <div align="center">
 
-**Aberto a oportunidades como Frontend Developer Jr/Pleno** — presencial (BR) ou remoto.<br/>
-Se você está contratando ou tem um projeto interessante, vamos conversar.
+```bash
+$ ./hire-me.sh --role "Frontend Jr/Pleno" --mode "remoto ou presencial (BR)"
+> Conexão estabelecida. Aguardando seu contato...
+```
+
+**Se você está contratando ou tem um projeto interessante, vamos conversar.**
 
 <br/>
 
@@ -197,3 +262,9 @@ Se você está contratando ou tem um projeto interessante, vamos conversar.
 <sub><b>Cielio Queiroz</b> · Brazil 🇧🇷 · Built with persistence and a lot of coffee ☕</sub>
 
 </div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     BANNER ANIMADO (RODAPÉ)                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=120&section=footer" />
