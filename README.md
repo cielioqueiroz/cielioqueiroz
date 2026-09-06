@@ -8,7 +8,7 @@
 
 ### Dev full-stack construindo produtos reais do interior do Brasil
 
-🟢 &nbsp;Aberto a oportunidades &nbsp;&nbsp;•&nbsp;&nbsp; 🌍 &nbsp;Remoto ou híbrido &nbsp;&nbsp;•&nbsp;&nbsp; 🇧🇷 &nbsp;Brasil, interior do Tocantins
+🟢 &nbsp;Aberto a oportunidades &nbsp;&nbsp;•&nbsp;&nbsp; 🌍 &nbsp;Remoto ou híbrido &nbsp;&nbsp;•&nbsp;&nbsp; 🇧🇷 &nbsp;Brasil
 
 <br/>
 
